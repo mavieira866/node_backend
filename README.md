@@ -23,7 +23,6 @@ Criando uma API completa com NodeJs.
 * Listando os Produtos
 * Atualizando um produto
 * Excluindo um produto
-* Validações
 * Repositórios
 * Async/Await
 * Revisitando os Models: Cliente
